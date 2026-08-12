@@ -1,4 +1,3 @@
-# flight_finder
 # Flight Finder
 
 Flight Finder is a simple flight booking web application developed as a student project. It allows users to search for available flights, view flight details, and book flights through an easy-to-use interface.
